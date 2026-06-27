@@ -29,12 +29,4 @@
   - **Runnable C++** — a `main()` is generated automatically so files       
   compile standalone.                                                          
                                                                                
-  ## Progress                                                               
-                                                                               
-  | Difficulty | Solved |                                                      
-  |------------|--------|                                                      
-  | 🟢 Easy    | 0      |                                                      
-  | 🟡 Medium  | 0      |                                                      
-  | 🔴 Hard    | 0      |                                                      
-                                                                               
-  _Updated automatically as I solve more._
+
