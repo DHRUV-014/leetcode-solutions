@@ -4,7 +4,7 @@
   custom Chrome extension I built. Every accepted submission lands here        
   automatically — organized, deduplicated, and (for C++) runnable standalone.  
                                                                                
-  ## 📁 Structure                                                              
+  ## Structure                                                              
                                                                                
   Difficulty/NNNN-problem-slug/                                                
   ├── problem-slug.ext   # the accepted solution                               
@@ -19,17 +19,17 @@
   ├── two-sum.cpp                                                              
   └── README.md                                                                
                                                                                
-  ## ✨ How  it works                                                           
+  ## How  it works                                                           
                                                                                
-  - ✅ **Auto-ccommit on Accept** — solutions are pushed the moment LeetCode    
+  - **Auto-ccommit on Accept** — solutions are pushed the moment LeetCode    
   marks them Accepted.                                                         
-  - 🗂 **Organized by difficulty** — Easy / Medium / Hard.                     
-  - ♻️ **No duplicates** — resubmitting a problem updates the same file in     
+  - **Organized by difficulty** — Easy / Medium / Hard.                     
+  - **No duplicates** — resubmitting a problem updates the same file in     
   place.                                                                       
-  - ⚙️ **Runnable C++** — a `main()` is generated automatically so files       
+  - **Runnable C++** — a `main()` is generated automatically so files       
   compile standalone.                                                          
                                                                                
-  ## 📊 Progress                                                               
+  ## Progress                                                               
                                                                                
   | Difficulty | Solved |                                                      
   |------------|--------|                                                      
